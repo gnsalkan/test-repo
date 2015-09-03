@@ -8,6 +8,6 @@
 
 *[R-Project][https://www.r-project.org/]
 
-*[Linux for Dummies][http://www.dummies.com/how-to/content/linux-for-dummies-cheat-sheet.html]
+*[Linux for Dummies](http://www.dummies.com/how-to/content/linux-for-dummies-cheat-sheet.html)
 
 we all add *other* helpful files **later**
